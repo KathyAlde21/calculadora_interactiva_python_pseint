@@ -1,6 +1,6 @@
 **_<h1 align="center">:vulcan_salute: Ejercicio con Python y PSeInt: Calculadora Interactiva :computer:</h1>_**
 
-**<h2 align="center">&#128203; Código realizado con ChatGPT en lenguaje Python para cumplir con requerimiento.</h2>**
+**<h2 align="center">&#128203; Código modificado con ChatGPT para cumplir con requerimiento. Para continuar con la línea de las otras dos actividades, se indico a ChatGPT que luego de reparar lo creara para lenguajes Python y PSeInt.</h2>**
 
 <img src="./img/calculadora_interactiva_vsc.png" alt="" style="width: 40%;"> <img src="./img/calculadora_interactiva_pseint.png" alt="" style="width: 40%;">
 
