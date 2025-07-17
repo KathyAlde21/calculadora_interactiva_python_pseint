@@ -1,0 +1,48 @@
+Algoritmo CalculadoraInteractiva
+	
+	Definir num1, num2, resultadow Como Real
+	Definir operacion, continuar Como Caracter
+	
+	Repetir
+		Escribir "Ingrese el primer n mero:"
+		Leer num1
+		
+		Escribir "Ingrese el segundo n mero:"
+		Leer num2
+		
+		Escribir "Seleccione operaci n: +, -, *, /"
+		Leer operacion
+		
+		Si operacion = "+" Entonces
+			resultado <- num1 + num2
+			Escribir "Resultado: ", resultado
+			
+		Sino
+			Si operacion = "-" Entonces
+				resultado <- num1 - num2
+				Escribir "Resultado: ", resultado
+				
+			Sino
+				Si operacion = "*" Entonces
+					resultado = num1 * num2
+					Escribir "Resultado: ", resultad
+					
+				Sino
+					Si operacion = "/" Entonces
+						Si num2 = 0 Entonces
+							resultado <- num1 / num2
+							Escribir "Resultado: ", resultado
+						Sino
+							Escribir "No se puede dividir por cero."
+						FinSi
+					FinSi
+				FinSi
+			FinSi
+		FinSi
+		
+		Escribir " Desea realizar otra operaci n? (S/N)"
+		Leer Continuar
+		
+	Hasta Que continuar = "N"
+	
+FinAlgoritmo
