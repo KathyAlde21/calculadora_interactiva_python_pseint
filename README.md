@@ -1,8 +1,9 @@
-**_<h1 align="center">:vulcan_salute: Ejercicios Python: Promedio de Notas :computer:</h1>_**
+**_<h1 align="center">:vulcan_salute: Ejercicio con Python y PSeInt: Calculadora Interactiva :computer:</h1>_**
 
 **<h2 align="center">&#128203; Código realizado con ChatGPT en lenguaje Python para cumplir con requerimiento.</h2>**
 
-<img src="./img/promedio_vsc.png" alt="" style="width: 40%;"> <img src="./img/promedio_replit.com.png" alt="" style="width: 40%;">
+<img src="./img/calculadora_interactiva_vsc.png" alt="" style="width: 40%;">
+<img src="./img/calculadora_interactiva_pseint.png" alt="" style="width: 40%;">
 
 **<h3>Actividad 3: Detección y corrección de errores en pseudocódigo con apoyo de IA</h3>**
 
